@@ -25,7 +25,6 @@ I’m a passionate Software Developer and focused on building fast, modern, and 
 
 👩‍💻 More technical
 
-✨ Short & powerful bio
 
 ---
 
