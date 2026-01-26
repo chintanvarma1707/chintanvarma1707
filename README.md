@@ -55,23 +55,23 @@ I’m a passionate Software Developer and focused on building fast, modern, and 
 
 # 💎 FEATURED PROJECTS
 
-### 🔹 **Netflix-clone **
-Responsive Netflix-Clone 
+### 🔹 **Netflix-clone**
+Responsive Netflix-Clone <br>
 **Tech:** HTML | CSS <br>
-🔗 Repo:https://github.com/chintanvarma1707/Netflix-clone.git
+🔗 Repo: https://github.com/chintanvarma1707/Netflix-clone.git
 
 ---
 
-### 🔹 **Dynamic-registration-form **
-Registration form(Dynmaic) 
-**Tech:** HTML | CSS | JS | php 
-🔗 Repo: https://github.com/chintanvarma1707/Dynamic-registration-form.git
+### 🔹 **Dynamic-registration-form**
+<p>Registration-form <br></p>
+<p><b>Tech:</b> HTML | CSS | PHP <br></p>
+<p>🔗 Repo: https://github.com/chintanvarma1707/Dynamic-registration-form.git</p>
 ---
 
 ### 🔹 **Task-Management-System**
-A dynamic Task Manager built with PHP & MySQL featuring.
-("Urgency Logic",deadlines (Red=Overdue, Orange=Urgent)
-**Tech:** HTML | CSS | php 
+A dynamic Task Manager built with PHP & MySQL featuring.<br>
+("Urgency Logic",deadlines (Red=Overdue, Orange=Urgent) <br>
+**Tech:** HTML | CSS | php <br>
 🔗 Repo: https://github.com/chintanvarma1707/Task-Management-System.git
 
 ---
