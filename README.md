@@ -1,6 +1,6 @@
 <!-- NEON HOLOGRAPHIC HEADING -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=800&color=00E8FF&center=true&vCenter=true&width=900&lines=CHINTAN+VARMA;Full+Stack+Developer;Welcome+to+My+GitHub+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=800&color=C3110C&center=true&vCenter=true&width=900&lines=CHINTAN+VARMA;Full+Stack+Developer;Welcome+to+My+GitHub+🌌" />
 </h1>
 
 <p align="center">
