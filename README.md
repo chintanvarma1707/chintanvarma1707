@@ -42,7 +42,7 @@ I’m a passionate Software Developer and focused on building fast, modern, and 
 
 <h3 align="center">🛠 Backend / DB</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,django,mongodb,mysql" height="60"/>
 </p>
 
 <h3 align="center">⚙ Tools</h3>
