@@ -53,6 +53,12 @@ I’m a passionate Software Developer and focused on building fast, modern, and 
 ---
 
 # 💎 FEATURED PROJECTS
+### 🔹 **Modern Weather Application**
+Modern Weather Application <br>
+**Tech:** HTML | CSS | php | API(Open-Meteo)<br>
+🔗 Repo: https://github.com/chintanvarma1707/Modern-weather-application.git
+
+---
 
 ### 🔹 **Netflix-clone**
 Responsive Netflix-Clone <br>
