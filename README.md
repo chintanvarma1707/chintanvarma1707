@@ -57,7 +57,7 @@ I’m a passionate Software Developer and focused on building fast, modern, and 
 ### 🔹 **Transliteration_System**
 Modern Transliteration System <br>
 **Tech:** HTML | CSS | Js | pyhton | Flask | API architecture <br>
-🔗 Repo: https://github.com/chintanvarma1707/Transliteration_System.git
+🔗 Repo: https://github.com/chintanvarma1707/Transliteration_System.git<br>
 🔗 Live: https://transliteration-system.vercel.app/
 
 ---
@@ -65,7 +65,7 @@ Modern Transliteration System <br>
 ### 🔹 **Modern Weather Application**
 Modern Weather Application <br>
 **Tech:** HTML | CSS | php | API(Open-Meteo)<br>
-🔗 Repo: https://github.com/chintanvarma1707/Modern-weather-application.git
+🔗 Repo: https://github.com/chintanvarma1707/Modern-weather-application.git<br>
 🔗 Live: https://weatherapplication.infinityfree.me/
 
 ---
