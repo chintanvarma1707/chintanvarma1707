@@ -1,7 +1,7 @@
 <!-- ================== ANIMATED HEADER ================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=950&lines=🚀+CHINTAN+VARMA;💻+Full+Stack+Developer;⚡+Building+Modern+Web+Apps;🌌+Welcome+to+My+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=950&lines=🚀+CHINTAN+VARMA;💻+Full+Stack+Developer;⚡+Building+Modern+Web;🌌+Welcome+to+My+GitHub" />
 </h1>
 
 <p align="center">
@@ -27,22 +27,22 @@
 
 # 🧬 TECH STACK
 
-### 🚀 Languages
+### <h3 align="center">🚀 Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript&perline=4" />
 </p>
 
-### 🎨 Frontend
+### <h3 align="center">🎨 Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### 🛠 Backend / Database
+### <h3 align="center">🛠 Backend / Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,django,mongodb,mysql" />
 </p>
 
-### ⚙ Tools
+### <h3 align="center">⚙ Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
