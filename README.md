@@ -63,6 +63,13 @@
 
 # 💎 FEATURED PROJECTS
 
+## 🔹 Nexa Health
+✨ Nexa Health  
+💻 Tech: React 19 | Gemini AI | Groq AI | Python/fastapi | Supabase | Clerk | Framer Motion  
+🔗 [Repository](https://github.com/chintanvarma1707/Transliteration_System)  
+🌍 [Live Demo](https://nexa-health-pi.vercel.app/)
+
+---
 ## 🔹 Transliteration System
 ✨ Modern Transliteration Web App  
 💻 Tech: HTML | CSS | JS | Python | Flask | API Architecture  
