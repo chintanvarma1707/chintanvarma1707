@@ -63,6 +63,12 @@
 
 # 💎 FEATURED PROJECTS
 
+## 🔹 Apex Stadium
+✨ Apex Stadium  
+💻 Tech: Next.js 15 | React 19 | TypeScript | Framer Motion | Neural Vision AI | Lucide React 
+🔗 [Repository](https://github.com/chintanvarma1707/Venue-Flow.git)  
+🌍 [Live Demo](https://venue-flow-psi.vercel.app/)
+
 ## 🔹 Nexa Health
 ✨ Nexa Health  
 💻 Tech: React 19 | Gemini AI | Groq AI | Python/fastapi | Supabase | Clerk | Framer Motion  
