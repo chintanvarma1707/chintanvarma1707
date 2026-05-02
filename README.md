@@ -1,11 +1,11 @@
 <!-- ================== ANIMATED HEADER ================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=950&lines=🚀+CHINTAN+VARMA;💻+Full+Stack+Developer;⚡+Building+Modern+Web;🌌+Welcome+to+My+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=6fc2fc&center=true&vCenter=true&width=950&lines=🚀+CHINTAN+VARMA;💻+Full+Stack+Developer;⚡+Building+Modern+Web;🌌+Welcome+to+My+GitHub" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000090,100:5eadf4&height=120&section=header"/>
 </p>
 
 ---
@@ -142,7 +142,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000090,100:5eadf4&height=120&section=header"/>
 </p>
+
 
 <h3 align="center">✨ Thanks for Visiting My GitHub Profile ✨</h3>
