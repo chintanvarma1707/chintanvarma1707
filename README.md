@@ -1,7 +1,7 @@
 <!-- ================== ANIMATED HEADER ================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=6fc2fc&center=true&vCenter=true&width=950&lines=🚀+CHINTAN+VARMA;💻+Full+Stack+Developer;⚡+Building+Modern+Web;🌌+Welcome+to+My+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2000&pause=800&color=6fc2fc&center=true&vCenter=true&width=950&lines=🚀+CHINTAN+VARMA;💻+Full+Stack+Developer;⚡+Building+Modern+Web;🌌+Welcome+to+Chintan's+GitHub" />
 </h1>
 
 <p align="center">
