@@ -26,7 +26,7 @@
 - 🎨 Blending **creative UI/UX** with **strong backend architecture**
 - 🤖 Exploring **AI-powered applications** (Gemini, Groq, Neural Vision)
 - 🌱 Currently deepening my skills in **Next.js, TypeScript & FastAPI**
-- 📫 Reach me at **chintanvarma@gmail.com**
+- 📫 Reach me at **chintanvarma1707@gmail.com**
 
 > *"Code. Build. Improve. Repeat."*
 
