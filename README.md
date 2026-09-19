@@ -1,5 +1,5 @@
 <!-- ================== HEADER ================== -->
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Chintan%20Varma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=58&descSize=18"/>
 
